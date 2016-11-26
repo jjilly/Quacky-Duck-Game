@@ -26,7 +26,7 @@ li{
     font-size:15;
 }
 li:hover {
-    text-decoration: underline;
+     font-weight: 900;
 }
 h1{
     font-family: 'Oswald', sans-serif;
