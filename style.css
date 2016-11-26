@@ -25,6 +25,7 @@ li{
     padding:10px 60px 10px 60px;
     font-size:15;
 }
+a { color: white; }
 li:hover {
      font-weight: 900;
 }
